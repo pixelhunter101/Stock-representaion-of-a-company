@@ -41,5 +41,5 @@ Page 3:
 
 Page 4
  - It will be shown when a User clicks a specific row at page 3 and is redirected to page 4
- - The daily returns of that company is shown, where a column is made for update and delete 
+ - The daily returns of that company is shown, where a column is made for update and delete
 
