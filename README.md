@@ -16,10 +16,10 @@ Pages Shown:
 Steps to be taken:
 1. Representation of data through line graph
 2. Button to redirect to 2nd and 3rd page 
-    Create New Entry - Page 2
-    Update or delete an Entry in Equity.csv - Page 3 
-    If a change is to be made on Returns then click on a row of equity.csv then get redirected to the returns of that csv
-    Update or delete an Entry in Daily_Returns.csv - Page 4 
+    - Create New Entry - Page 2
+    - Update or delete an Entry in Equity.csv - Page 3 
+    - If a change is to be made on Returns then click on a row of equity.csv then get redirected to the returns of that csv
+    - Update or delete an Entry in Daily_Returns.csv - Page 4 
 3. When new entry is added, the page will redirect to page 1
 4. When user is done with editing or deleting an entry from a table , redirect to page 1
 
