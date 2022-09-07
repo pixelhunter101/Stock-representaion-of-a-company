@@ -13,7 +13,7 @@ Pages Shown:
 - Page 3 - View all equities & returns in a tabular from where we can update or delete a data (Update & Delete)
 - Page 4 - View all Daily_Returns.CSV where we can update or delete a data (Update & Delete)
 
-Steps to be taken:
+Steps taken:
 1. Representation of data through line graph
 2. Button to redirect to 2nd and 3rd page 
     - Create New Entry - Page 2
