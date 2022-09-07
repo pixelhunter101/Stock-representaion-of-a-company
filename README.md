@@ -36,8 +36,8 @@ Page Description:
    - Foreign key for Daily_Returns.CSV
   
 - Page 3:
- - In the table of eqity where the button is made at a column (update and delete)
- - It will also show all the returns of all the companies
+  - In the table of eqity where the button is made at a column (update and delete)
+  - It will also show all the returns of all the companies
 
 - Page 4
   - It will be shown when a User clicks a specific row at page 3 and is redirected to page 4
