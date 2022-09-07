@@ -1,17 +1,17 @@
 # Stock-representaion-of-a-company
 
-Front-End Used : Angular
-Back-End Used : Django
-DataBase Used : SQLite
+- Front-End Used : Angular
+- Back-End Used : Django
+- DataBase Used : SQLite
 
 CRUD Implementation
 
 Pages Shown:
 
-Page 1 - Graphical Reprentation of Stocks of all the companies (Read)
-Page 2 - Add new Equity and then add upload button for adding daily_returns.CSV (Create)
-Page 3 - View all equities & returns in a tabular from where we can update or delete a data (Update & Delete)
-Page 4 - View all Daily_Returns.CSV where we can update or delete a data (Update & Delete)
+- Page 1 - Graphical Reprentation of Stocks of all the companies (Read)
+- Page 2 - Add new Equity and then add upload button for adding daily_returns.CSV (Create)
+- Page 3 - View all equities & returns in a tabular from where we can update or delete a data (Update & Delete)
+- Page 4 - View all Daily_Returns.CSV where we can update or delete a data (Update & Delete)
 
 Steps to be taken:
 1. Representation of data through line graph
@@ -25,21 +25,21 @@ Steps to be taken:
 
 Page Description:
 
-Page 1: 
-- A graph and at footer at two ends the button for create(page 2) or update and delete a data (page 3)
+- Page 1: 
+  - A graph and at footer at two ends the button for create(page 2) or update and delete a data (page 3)
 
-Page 2:
-- Contains a form where it will have all the entries which was specified by equity.csv
-- An upload button to add daily returns.csv 
-  - Make sure that the id is generated automatically for Equity. The number starts from 10277. Ends at 10286.
-  - Primary key for Equity.CSV 
-  - Foreign key for Daily_Returns.CSV
+- Page 2:
+  - Contains a form where it will have all the entries which was specified by equity.csv
+  - An upload button to add daily returns.csv 
+   - Make sure that the id is generated automatically for Equity. The number starts from 10277. Ends at 10286.
+   - Primary key for Equity.CSV 
+   - Foreign key for Daily_Returns.CSV
   
-Page 3:
-- In the table of eqity where the button is made at a column (update and delete)
-- It will also show all the returns of all the companies
+- Page 3:
+ - In the table of eqity where the button is made at a column (update and delete)
+ - It will also show all the returns of all the companies
 
-Page 4
- - It will be shown when a User clicks a specific row at page 3 and is redirected to page 4
- - The daily returns of that company is shown, where a column is made for update and delete
+- Page 4
+  - It will be shown when a User clicks a specific row at page 3 and is redirected to page 4
+  - The daily returns of that company is shown, where a column is made for update and delete
 
