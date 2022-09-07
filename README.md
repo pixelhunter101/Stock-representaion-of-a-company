@@ -1,0 +1,1 @@
+# Stock-representaion-of-a-company
