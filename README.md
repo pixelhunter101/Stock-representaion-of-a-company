@@ -42,4 +42,13 @@ Page Description:
 - Page 4
   - It will be shown when a User clicks a specific row at page 3 and is redirected to page 4
   - The daily returns of that company is shown, where a column is made for update and delete
+  
+  
+ Also attached the link for downloading the project:
+ 
+ https://drive.google.com/drive/folders/1IAw-UNqcYJIlrVigNZYxO4DQVDNFtbkT?usp=sharing
+ 
+ django using rest api- backend
+ angular - frontend
+ 
 
