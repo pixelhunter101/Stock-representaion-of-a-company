@@ -51,4 +51,6 @@ Page Description:
  django using rest api- backend
  angular - frontend
  
+![Screenshot (1)](https://user-images.githubusercontent.com/86378665/190928270-491b1562-c8e7-4286-910c-b075f35fa9ee.png)
+
 
