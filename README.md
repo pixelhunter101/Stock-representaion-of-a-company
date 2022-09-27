@@ -3,6 +3,7 @@
 - Front-End Used : Angular
 - Back-End Used : Django
 - DataBase Used : SQLite
+- API Used : Django Rest API
 
 CRUD Implementation
 
